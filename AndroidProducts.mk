@@ -10,9 +10,9 @@ COMMON_LUNCH_CHOICES := \
 
 # CherishOS
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_santoni.mk
+    $(LOCAL_DIR)/havoc_santoni.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_santoni-userdebug \
-    cherish_santoni-user \
-    cherish_santoni-eng
+   havoc_santoni-userdebug \
+    havoc_santoni-user \
+   havoc_santoni-eng
